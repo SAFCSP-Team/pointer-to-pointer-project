@@ -1,4 +1,4 @@
-# Double Pointers Project
+# Pointer to Pointer Project
 
 ### Objective
 
