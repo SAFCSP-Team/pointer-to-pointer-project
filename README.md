@@ -6,7 +6,7 @@ In this project, our main goal is to understand how to use the **pointer to poin
 
 ### Problem
 
-Create two pointer to pointer variables `ptr2` that reference `ptr1` and `ptr3` that reference `ptr2` and use `ptr3` to update the value of `num`.
+Create two pointer to pointer variables, `ptr2` that references `ptr1`, `ptr3` that references `ptr2`, and use `ptr3` to update the value of `num`.
 
 ### Implementation
 - Write your code in the main function.
